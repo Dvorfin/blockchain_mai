@@ -3,9 +3,9 @@
 
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+Адрес контракта: 0x006A40C365B41aa5081a345eA2D737BC09dEeC14
+Адрес кошелька: 0x17107cbC79DE38A9da809cc1Fc4d23431c71faD5
+Hash транзакции: 
+0xe11143ba57b197b4ca257c8195dfca94d132a908fb6119c450ab51ce461985d7
+
 ```
